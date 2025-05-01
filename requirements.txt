@@ -1,5 +1,5 @@
-streamlit==1.16.0
-requests==2.28.1
-beautifulsoup4==4.11.1
-transformers==4.23.1
-torch==1.12.1
+streamlit
+requests
+beautifulsoup4
+transformers
+torch
